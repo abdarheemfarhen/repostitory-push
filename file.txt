@@ -2,5 +2,9 @@ create file.txt
 file githup
 pranch abdraheem
 git a2
+<<<<<<< HEAD
 git
 for(i=0;i<10;i++)
+=======
+git
+>>>>>>> b
