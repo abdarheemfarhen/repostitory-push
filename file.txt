@@ -1,5 +1,10 @@
 create file.txt
 file githup
 pranch abdraheem
-
 bull 
+git a2
+git
+for(i=0;i<10;i++)
+git
+b
+main

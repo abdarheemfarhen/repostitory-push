@@ -1,0 +1,8 @@
+ the is main
+main
+the is main is git
+<<<<<<< HEAD
+anwar git
+=======
+anwar github
+>>>>>>> c6b7b286406f6185f6e6acf5a51b9847d882ce26
