@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [@octokatherine](https://github.com/abdarheemfarhen/repostitory-push/settings/pages)
+- [@octokatherine](https://abdarheemfarhen.github.io/repostitory-push/)
 
 
 ## Badges
