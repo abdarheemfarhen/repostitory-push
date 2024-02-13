@@ -3,4 +3,4 @@ file githup
 pranch abdraheem
 git a2
 git
-for(=0;i<10;i++)
+for(i=0;i<10;i++)
